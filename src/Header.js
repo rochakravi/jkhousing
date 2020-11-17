@@ -1,12 +1,12 @@
 import logo from "./Logo.png";
-import "./Header.css";
+import "./Header.scss";
 
 function Header() {
   return (
     <div className="App">
       <header className="header">
         <img src={logo} className="jkb-logo" alt="logo" />
-        <ui>
+        <ui className="header-menu">
           <li>Home</li>
           <li>About Us</li>
           <li>Projects</li>

@@ -1,0 +1,23 @@
+.jkb-logo {
+  width: 160px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+.jkb-logo {
+  width: 160px;
+}
+.header-menu {
+  display: flex;
+  li {
+    padding: 0 8px;
+    list-style: none;
+  }
+}
+/* li {
+  padding: 0 8px;
+  list-style: none;
+} */
