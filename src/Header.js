@@ -1,5 +1,7 @@
 import logo from "./Logo.png";
 import "./Header.scss";
+import { FaFacebook } from "react-icons/fa";
+import { TiSocialYoutubeCircular } from "react-icons/ti";
 
 function Header() {
   return (
@@ -21,7 +23,8 @@ function Header() {
           <li>Review</li>
         </ui>
         <ui>
-          <li>icons</li>
+          <FaFacebook />
+          <TiSocialYoutubeCircular />
           <li>icons</li>
           <li>icons</li>
         </ui>
