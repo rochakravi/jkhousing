@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+react basics
+
+Event
+Hooks =>
+List
+conditionalRendering
+
+Redux
+Redux Thunk
+
+Context
+Hooks advance => useDispatch , useStyles
+Higher Order Component
+axiso =>
+Error boudries
+
+Form
+Formic
+
+Authentication =>
+
+MutliStep form
